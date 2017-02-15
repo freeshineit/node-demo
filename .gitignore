@@ -1,6 +1,6 @@
 
 
-#node 插件   忽略node-modules
-node-modules
+#node 插件   忽略node_modules
+node_modules
 
 
