@@ -1,6 +1,6 @@
 
 
-#node 插件
-node-nodules/
+#node 插件   忽略node-modules
+node-modules
 
 
